@@ -11,3 +11,5 @@ I used pytorch to use it locally.
 
 <img width="593" alt="image" src="https://github.com/manikandanhereby/whisper_testing/assets/52741580/77732529-f9c1-4577-a61d-eb747985a788">
 
+
+<img width="513" alt="image" src="https://github.com/manikandanhereby/whisper_testing/assets/52741580/da663ffe-51f7-4677-9bff-48ed97160a30">
