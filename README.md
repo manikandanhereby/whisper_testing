@@ -1,6 +1,12 @@
 # whisper_testing
+Speech Recognition Tool: Multilingual, Multitasking translation and trascription
+encoder-decoder Transformer is the basic technique where the architecture is comprising of.
+1. Zero-shot Evaluation:
+The goal of Whisper is to develop a single robust speech processing system that works reliably without the need for dataset specific fine-tuning to achieve high-quality results on specific distributions. To study this capability, we reuse a wide set of existing speech processing datasets to
+check whether Whisper is able to generalize well across domains, tasks, and languages. Instead of using the standard evaluation protocol for these datasets, which include both a train and test split, we evaluate Whisper in a zero-shot setting without using any of the training data for each of these datasets so that we are measuring broad generalization.
 
-We can OpenAI's speech recognition model
+
+We can use OpenAI's speech recognition model
 It can perform speech recognition, translation and language identification.
 currently supports 96 languages.
 I used pytorch to use it locally.
