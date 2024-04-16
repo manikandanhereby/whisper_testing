@@ -1,9 +1,13 @@
 # whisper_testing
 Speech Recognition Tool: Multilingual, Multitasking translation and trascription
 encoder-decoder Transformer is the basic technique where the architecture is comprising of.
-1. Zero-shot Evaluation:
-The goal of Whisper is to develop a single robust speech processing system that works reliably without the need for dataset specific fine-tuning to achieve high-quality results on specific distributions. To study this capability, we reuse a wide set of existing speech processing datasets to
-check whether Whisper is able to generalize well across domains, tasks, and languages. Instead of using the standard evaluation protocol for these datasets, which include both a train and test split, we evaluate Whisper in a zero-shot setting without using any of the training data for each of these datasets so that we are measuring broad generalization.
+
+Common evaluation metrics and it's results:
+1. WER method.
+2. Zero-shot Evaluation: yes
+3. Multi lingual method: results are below
+   ![image](https://github.com/manikandanhereby/whisper_testing/assets/52741580/845d1609-9bb6-458b-97b1-2906751fd0e9)
+
 
 
 We can use OpenAI's speech recognition model
