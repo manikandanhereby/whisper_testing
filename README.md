@@ -23,3 +23,13 @@ I used pytorch to use it locally.
 
 
 <img width="513" alt="image" src="https://github.com/manikandanhereby/whisper_testing/assets/52741580/da663ffe-51f7-4677-9bff-48ed97160a30">
+
+
+
+How Mel Spectogram works??
+
+Ans:
+   Signal varies with time on quantity font. Air pressure over time could determine this variation. Waveform of this signal can be captured to identify, process and modify according to our requirements using computer software
+
+   Fourier Transformation:
+      
